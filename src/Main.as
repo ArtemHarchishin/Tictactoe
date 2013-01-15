@@ -4,7 +4,7 @@ import flash.events.Event;
 
 public class Main extends Sprite {
 
-    [SWF]
+    [SWF(width="760", height="630", frameRate="30", backgroundColor="#009999")]
     public function Main():void {
         if (stage)
             init();
