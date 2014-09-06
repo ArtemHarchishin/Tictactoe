@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a69244c-3c17-471a-8535-a112fc91e81a" name="Default" comment="" />
+    <list default="true" id="9a69244c-3c17-471a-8535-a112fc91e81a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AssetFactory.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EmbededAssets.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LoginGreeting.as" afterPath="$PROJECT_DIR$/src/LoginGreeting.as" />
+    </list>
     <ignored path="Tictactoe.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.js2" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358072051513" ignored="false" />
+    <file path="/fragment.js2" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358431772561" ignored="false" />
     <file path="/a.java" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358070672838" ignored="false" />
-    <file path="/LoginGreeting.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358071624454" ignored="false" />
-    <file path="/Main.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358072018691" ignored="false" />
+    <file path="/LoginGreeting.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358342925212" ignored="false" />
+    <file path="/Main.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358341938892" ignored="false" />
     <file path="C:/WebServers/usr/local/php5/php.ini" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358071667102" ignored="false" />
+    <file path="/Dummy.txt" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358432106778" ignored="false" />
+    <file path="/a.dummy" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358433376022" ignored="false" />
+    <file path="$PROJECT_DIR$/../civilization/CivGame/src/com/ax3/civ/view/CivInputText.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358239124307" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/OlympusArrows/bonusDesign.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358240021275" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/OlympusArrows/gameDesign.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358240051011" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/PeakSlots.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358417916682" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/utils/iJSON.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358260817365" ignored="false" />
+    <file path="/iJSON.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358244515880" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/UnlockRoomDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/managers/SoundManager.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358260983836" ignored="false" />
+    <file path="/SoundManager.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358251911320" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/SlotDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426849992" ignored="false" />
+    <file path="/PeakSlots.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358250162814" ignored="false" />
+    <file path="/SlotDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358260314240" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/classes/iSlotClass.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358433455772" ignored="false" />
+    <file path="/iSlotClass.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358248817134" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/managers/SoundsDictionary.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426855790" ignored="false" />
+    <file path="/RoomController.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358248881077" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/controller/RoomController.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358260944537" ignored="false" />
+    <file path="/SoundsDictionary.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358251631333" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/controller/SuperBonusController.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358416213758" ignored="false" />
+    <file path="/SuperBonusController.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358248902439" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/LevelUpDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358248930453" ignored="false" />
+    <file path="/LevelUpDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358248929232" ignored="false" />
+    <file path="/UnlockRoomDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358248964679" ignored="false" />
+    <file path="/CollectMegaBonusDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358249004239" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/superbonus/CollectMegaBonusDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358249005332" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/superbonus/MegaBonusWheelDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358249121699" ignored="false" />
+    <file path="/MegaBonusWheelDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358249120292" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/lobby/UserInfoPanel.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426866282" ignored="false" />
+    <file path="/UserInfoPanel.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358424906443" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/lobby/VSlotIcon.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358249354427" ignored="false" />
+    <file path="/VSlotIcon.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358249353077" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/classes/iDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358416213758" ignored="false" />
+    <file path="/iDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358256353734" ignored="false" />
+    <file path="/fragment.js" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358431277800" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/managers/PopupManager.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358258534874" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-FB/htdocs/images/flash/local/application/Main.swf" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/AnimationsDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358432076363" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/AskFriendsDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/SpecialOffersDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358351842283" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/BuyCoinsDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/ChooseGiftDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/superbonus/CollectBonusDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/CollectGiftsDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/CollectGiftsEmptyDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/ClassyCal/bonusDesign.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/lobby/LobbyDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/ClassyCal/gameDesign.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/FirstEntryDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/Safari King/gameDesign.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/FreeGiftDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/classes/game/Game.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426999439" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/FreeSpinsAllocateDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426282977" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/CleopatrasCharm/bonusDesign.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/GlobalLeaderboardDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358416213758" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/controller/SlotButtonController.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358433264239" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/InviteFriendsDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/LikeCongratulationDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/lottery/LotteryAskOrBuyDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/OutOfCoinsDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/OutOfCoinsWarningDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456270" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/BonusGameResultDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358261456570" ignored="false" />
+    <file path="/EmbededAssets.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358342472389" ignored="false" />
+    <file path="/AssetFactory.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358343144051" ignored="false" />
+    <file path="/SpecialOffersDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358351838756" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/assets/slots/LuckyTales/bonus/BonusDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358410601276" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/configuration/Resources.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358416213758" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/Main.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358416213758" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-FB/htdocs/.htaccess" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358418353304" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/lobby/VPagesLinks.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358423731044" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/Background.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358424142061" ignored="false" />
+    <file path="/Background.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358424093828" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/MVC/view/Dialogs/FreeSpinWinDialog.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426999439" ignored="false" />
+    <file path="$PROJECT_DIR$/../Peakgames Slots/Benjamin-AS3/flash/src/classes/game/RichesGame.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358426999439" ignored="false" />
+    <file path="/SlotButtonController.as" changelist="9a69244c-3c17-471a-8535-a112fc91e81a" time="1358433246964" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,25 +143,55 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Tictactoe" />
+    <favorites_list name="Tictactoe">
+      <favorite_root url="file://$PROJECT_DIR$" module="Tictactoe" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src" module="Tictactoe" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/LoginGreeting.as" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/Main.as" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/html-template" module="Tictactoe" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/html-template/index.template.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/html-template/swfobject.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="30" selection-start="102" selection-end="102" vertical-scroll-proportion="0.099183194">
+            <state line="5" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginGreeting.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LoginGreeting.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="30" selection-start="515" selection-end="515" vertical-scroll-proportion="0.3171206">
               <folding>
-                <element signature="e#10#38#0" expanded="true" />
+                <element signature="e#12#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginGreeting.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LoginGreeting.as">
+      <file leaf-file-name="AssetFactory.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AssetFactory.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="41" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+            <state line="2" column="25" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmbededAssets.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EmbededAssets.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,11 +204,21 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/LoginGreeting.as" />
         <option value="$PROJECT_DIR$/src/Main.as" />
+        <option value="$PROJECT_DIR$/src/EmbededAssets.as" />
+        <option value="$PROJECT_DIR$/src/LoginGreeting.as" />
+        <option value="$PROJECT_DIR$/src/AssetFactory.as" />
       </list>
     </option>
   </component>
@@ -106,17 +226,17 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1040" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -135,6 +255,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,7 +284,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -183,21 +304,22 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.ActionScript" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -323,7 +445,7 @@
       <option name="launcherParameters">
         <LauncherParameters>
           <option name="browserFamily" value="FIREFOX" />
-          <option name="launcherType" value="OSDefault" />
+          <option name="launcherType" value="Browser" />
           <option name="playerPath" value="FlashPlayerDebugger.exe" />
         </LauncherParameters>
       </option>
@@ -338,7 +460,9 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexDebugRunner" />
       <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
       <ConfigurationWrapper RunnerId="FlexRunner" />
       <method />
     </configuration>
@@ -357,28 +481,55 @@
       <created>1358070351294</created>
       <updated>1358070351294</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes on work">
+      <created>1358261237440</created>
+      <updated>1358261237440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1040" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.4957265" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933258" sideWeight="0.48931623" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39933258" sideWeight="0.5069444" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.49786323" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25364667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25267094" sideWeight="0.6006674" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -422,7 +573,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes on work" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -435,9 +586,12 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="changes on work" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -446,25 +600,79 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+        <state line="16" column="25" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginGreeting.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="35" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#10#38#0" expanded="true" />
+            <element signature="e#12#46#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoginGreeting.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="41" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="e#12#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="30" selection-start="102" selection-end="102" vertical-scroll-proportion="0.099183194">
+        <state line="4" column="8" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/btn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/normal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmbededAssets.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AssetFactory.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginGreeting.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="30" selection-start="515" selection-end="515" vertical-scroll-proportion="0.3171206">
           <folding>
-            <element signature="e#10#38#0" expanded="true" />
+            <element signature="e#12#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,6 +706,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Python 2.7.3 (C:/Python27/python.exe) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -509,7 +718,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>flexsdk</last-edited>
+          <last-edited>flex sdk 4.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -521,12 +730,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Tictactoe</last-edited>
+          <last-edited>Tictactoe|Tictactoe</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
